@@ -1,0 +1,1 @@
+<h1 align="center">QR Code Generator</h1>
